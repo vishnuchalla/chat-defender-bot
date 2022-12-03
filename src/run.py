@@ -36,7 +36,7 @@ async def on_message(message):
     :param message: The context of the message sent on Discord
     :return: None
     """
-    print(f'Message from {message.author}: {message.content}: {message.channel.name}')
+    print(f"Message from {message.author}: {message.content}: {message.channel.name}")
     # Step 0: check if message is by Bot
     author = message.author
     author_id = message.author.id
@@ -45,9 +45,9 @@ async def on_message(message):
         return
     # Step 1: Pre-process message
     msg_content = clean_message(str(message.content))
-    if msg_content.find('hello') != -1:
+    if msg_content.find("hello") != -1:
         await message.reply("Hey <@{0}> how's it going?".format(author_id))
-    if msg_content.find('help') != -1:
+    if msg_content.find("help") != -1:
         await message.reply(get_help_message())
     # Step 2: Check for profanity
     if pc.check_message(channel_name, msg_content):
@@ -73,14 +73,19 @@ async def on_message(message):
     # Step 4: Check for Apology
     if ac.check_message(msg_content):
         if ac.add_apology(author_id, channel_name):
-            await message.reply("Hey <@{0}>, your apology is accepted by the bot".format(author_id))
+            await message.reply(
+                "Hey <@{0}>, your apology is accepted by the bot".format(author_id)
+            )
 
     # Step 5: Reporting a Profane Word
     if rc.check_message(msg_content):
         report_type, report_token = rc.parse_message(msg_content)
         if report_type == "word":
             if pc.add_words(channel_name, report_token):
-                await message.reply("{0} has been added as a toxic word".format(report_token))
+                await message.reply(
+                    "{0} has been added as a toxic word".format(report_token)
+                )
+
 
 if __name__ == "__main__":
     load_dotenv("bot.env")

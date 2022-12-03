@@ -75,7 +75,9 @@ class ApologyChecker(Checker):
                 print("User is added into the channel")
             else:
                 if result[0] == 1:
-                    print("User is banned from this server. Can't insert into the channel")
+                    print(
+                        "User is banned from this server. Can't insert into the channel"
+                    )
 
         except Exception as error:
             print("Failed to get record from MySQL table: {}".format(error))

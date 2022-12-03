@@ -16,11 +16,15 @@ class ProfanityChecker(Checker):
         """
         try:
             cursor = self.conn.connector.cursor()
-            sql_query = "SELECT word FROM discorddb.pwords WHERE server_name = %s AND word = %s"
+            sql_query = (
+                "SELECT word FROM discorddb.pwords WHERE server_name = %s AND word = %s"
+            )
             cursor.execute(sql_query, (server, word))
             result = cursor.fetchone()
             if not result:
-                sql_query = "INSERT INTO discorddb.pwords (server_name, word) VALUES (%s,%s)"
+                sql_query = (
+                    "INSERT INTO discorddb.pwords (server_name, word) VALUES (%s,%s)"
+                )
                 val = (server, word)
                 cursor.execute(sql_query, val)
                 self.conn.connector.commit()

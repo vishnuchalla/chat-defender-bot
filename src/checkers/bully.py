@@ -11,8 +11,8 @@ class BullyChecker(Checker):
         self.load_model()
 
     def load_model(self):
-        filename = './data/toxic_model.sav'
-        self.model = pickle.load(open(filename, 'rb'))
+        filename = "./data/toxic_model.sav"
+        self.model = pickle.load(open(filename, "rb"))
 
     def check_message(self, msg: str):
         """
