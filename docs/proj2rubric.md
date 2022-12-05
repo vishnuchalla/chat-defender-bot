@@ -32,7 +32,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|||
 |Short release cycles || (hard to see in short projects) project members are committing often enough so that everyone can get your work|
 |Sustainability Evaluation|3|[GitHub Insights](https://github.com/vishnuchalla/chat-defender-bot/graphs/contributors)|
 |Does your website and documentation provide a clear, high-level overview of your software|3|[README.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/README.md)|
-|Does your website and documentation clearly describe the type of user who should use your software|3|[README.md](https://github.com/vamsitadikonda/chat-defender-bot/blob/main/README.md)|
+|Does your website and documentation clearly describe the type of user who should use your software|3|[README.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/README.md)|
 |Do you publish case studies to show how your software has been used by yourself and others|3|Video|
 |Is the name of your project/software unique|3|[README.md](https://github.com/vamsitadikonda/chat-defender-bot/blob/main/README.md)|
 |Is your project/software name free from trademark violations|0|NA|
