@@ -38,7 +38,7 @@ https://drive.google.com/file/d/1gEPCoA0PzZkM3sttMBpUsSCnIc_Dd1HI/view?usp=share
 <img src="https://drive.google.com/uc?export=view&id=1jREu_hnGJ1gxv6hx2KMmM1zzHc8Yhvdh" alt="python" width="20" height="20"/> Python </br>
 <img src="https://drive.google.com/uc?export=view&id=1Jnn5fThJOy1WMnlQcDyOHMdt2dB8imws" alt="MySql" width="20" height="20"/> MySql </br>
 <img src="https://drive.google.com/uc?export=view&id=17444V8CAig18_kQ9gQHY1ZX1JXObFMoz" alt="Docker" width="20" height="20"/> Docker </br>
-<img src="https://drive.google.com/file/d/1MrbhzRxRW72kZ0imr15_q14M3VA50sn8/view?usp=sharing" alt="Kubernetes" width="20" height="20"/> Elastic Kubernetes Service </br>
+<img src="https://raw.githubusercontent.com/kubernetes-sigs/aws-load-balancer-controller/main/docs/assets/images/kubernetes_icon.svg" alt="Kubernetes" width="20" height="20"/> Elastic Kubernetes Service </br>
 <img src="https://github.com/Spartee/redis-vector-search/blob/master/app/vecsim_app/data/redis-logo.png?raw=true" alt="Redis" width="20" height="20"> Redis </br>
 
 To have a better understanding of the code, please click on the link provided below.
