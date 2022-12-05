@@ -43,7 +43,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|||
 |Is your documentation clearly available on your website or within your software|3|[PDocs](https://sumanthbsundar.github.io/discord_chat_bot_doc/)|
 |Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use|3|Video|
 |If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software|3|[Install.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/INSTALL.md)|
-|Do you provide a comprehensive guide to all your software’s commands, functions and options|3|[Install.md](https://github.com/vamsitadikonda/chat-defender-bot/blob/main/INSTALL.md)|
+|Do you provide a comprehensive guide to all your software’s commands, functions and options|3|[Install.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/INSTALL.md)|
 |Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages|0|NA|
 |If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation|0|NA|
 |Do you store your documentation under revision control with your source code|3|yes|
