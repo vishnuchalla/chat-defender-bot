@@ -29,16 +29,16 @@ https://drive.google.com/file/d/1LNjVeSV_3JWVeWB_Lr11941LlmDSVAg8/view?usp=shari
 ## Future Scope
 1) The in-build detoxify() function  being used in this project is highy sensitive, so a model can be developed to adapt better to real world conversations, using desired datasets.
 2) The message data that is being evaluated in the current model is text. This can be expanded to detect profanity through other input sources such as image, video, GIF, etc.
-3) The current model can be extended to detect spam users
-4) Pre-evaluate a message at sender before posting
-5) In the curent system, the bot has complete control over identifying profanity. As the model can be wrong at times, moderators can be introduced to check the model performance.
-6) Similar to the profanity checker that is being implemented, an apology checker can also be developed to better identify apologies.
+3) The current model can be extended to detect spam users.
+4) Currently Apology checker is checking the sentiment of the text and looking for apology bag of words this can be improved by using an NLP custom apology model
 
 ## Tech Stack
 <img src="https://drive.google.com/uc?export=view&id=1jREu_hnGJ1gxv6hx2KMmM1zzHc8Yhvdh" alt="python" width="20" height="20"/> Python </br>
 <img src="https://drive.google.com/uc?export=view&id=1Jnn5fThJOy1WMnlQcDyOHMdt2dB8imws" alt="MySql" width="20" height="20"/> MySql </br>
 <img src="https://drive.google.com/uc?export=view&id=17444V8CAig18_kQ9gQHY1ZX1JXObFMoz" alt="Docker" width="20" height="20"/> Docker </br>
-Check out our code documentation [here](https://www.vamsitadikonda.com/chat-defender-bot) 
+<img src="https://github.com/Spartee/redis-vector-search/blob/master/app/vecsim_app/data/redis-logo.png?raw=true" alt="Redis" width="20" height="20"> Redis </br>
+
+Check out our code documentation [here](https://sumanthbsundar.github.io/discord_chat_bot_doc/) 
 
 :sparkles: Contributors
 ---
