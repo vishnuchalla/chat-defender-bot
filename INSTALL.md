@@ -35,4 +35,22 @@ Wait until all the pods come up into "Running" state by live monitoring using th
 ```
 kubectl get pods -w 
 ```
+The application should be up and running now. You can check logs of any pod using following command.
+```
+kubectl logs pod/<pod-name> -f
+```
+For a pod lifecycle description, execute the below command.
+```
+kubectl describe <pod-name>
+```
+To check all the resources. Execute the below command.
+```
+kubectl get all
+```
+To delete the resources. Use the same yaml resource files.
+```
+kubectl delete -f <file>.yaml
+```
+For more command explore kubernetes CLI: https://kubernetes.io/docs/reference/kubectl/
+
 NOTE: The current toxify model uses a python library called detoxify. Detoxify Currently doesnt support Apple Silicon. Apple Silicon users are advised to run the application using the docker. 
