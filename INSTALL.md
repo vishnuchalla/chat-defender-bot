@@ -23,18 +23,16 @@ Once the setup is done, place the token in bot.env and place the toxic_model.sav
 ```
 https://drive.google.com/file/d/1NY3mEogwXqsz2SaNz-hC2r5a5HYp6M66/view?usp=sharing
 ```
-After cloning, go to the folder in the terminal and build a Docker Image using below command
+After cloning, go to the folder in the terminal and build a cross platform Docker Image using below command
 ```
-docker-compose build 
+docker buildx create --use; docker buildx build --platform linux/amd64,linux/arm64 --push -t vishnuchalla007/docker-se:latest .
 ```
-The above command would build 3 docker containers: 1 bot container, 1 database container and 1 daemon container. Inorder to start the discord bot
-we need to execute.
+Once that is done navigate to kubernetes folder and execute the below command.
 ```
-docker-compose up 
+kubectl apply -f *.yaml
 ```
-Inorder to bring the bot offline. We just need to bring down all the containers using
+Wait until all the pods come up into "Running" state by live monitoring using the below command
 ```
-docker-compose down 
+kubectl get pods -w 
 ```
-
 NOTE: The current toxify model uses a python library called detoxify. Detoxify Currently doesnt support Apple Silicon. Apple Silicon users are advised to run the application using the docker. 
