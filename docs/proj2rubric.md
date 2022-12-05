@@ -21,7 +21,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|||
 |Use of version control tools|3|Github|
 |Test cases exist|3|[tests](https://github.com/vishnuchalla/chat-defender-bot/tree/main/tests)|
 |Test cases are routinely executed|3|[travis](https://github.com/vishnuchalla/chat-defender-bot/blob/main/.travis.yml)|
-|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|3|[CONTRIBUTING.md](https://github.com/vamsitadikonda/chat-defender-bot/blob/main/CONTRIBUTING.md)|
+|The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|3|[CONTRIBUTING.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/CONTRIBUTING.md)|
 |Issues are discussed before they are closed|3|[Issues](https://github.com/vamsitadikonda/chat-defender-bot/issues)|
 |Chat channel: exists|3|[Issues](https://github.com/vamsitadikonda/chat-defender-bot/issues)|
 |Test cases: a large proportion of the issues related to handling failing cases.|3|In GH|
