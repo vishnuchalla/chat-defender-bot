@@ -40,7 +40,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|||
 |Is your software available for free|3|Yes|
 |Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository|3|Yes|
 |Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)|3|Github|
-|Is your documentation clearly available on your website or within your software|3|[PDocs](https://www.vamsitadikonda.com/chat-defender-bot/)|
+|Is your documentation clearly available on your website or within your software|3|[PDocs](https://sumanthbsundar.github.io/discord_chat_bot_doc/)|
 |Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use|3|Video|
 |If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software|3|[Install.md](https://github.com/vamsitadikonda/chat-defender-bot/blob/main/INSTALL.md)|
 |Do you provide a comprehensive guide to all your software’s commands, functions and options|3|[Install.md](https://github.com/vamsitadikonda/chat-defender-bot/blob/main/INSTALL.md)|
