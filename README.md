@@ -41,6 +41,10 @@ https://drive.google.com/file/d/1gEPCoA0PzZkM3sttMBpUsSCnIc_Dd1HI/view?usp=share
 3) The current model can be extended to detect spam users.
 4) Currently Apology checker is checking the sentiment of the text and looking for apology bag of words this can be improved by using an NLP custom apology model
 
+## Why
+
+Having an anti-bully bot during online messaging services is essential because it helps to ensure that all users are treated with respect and dignity. It can help detect bullying behavior, such as name calling or insults, and alert moderators so they can take appropriate action. This type of automated tool also allows users to report any abuse they encounter without having to confront the perpetrator directly. The presence of an anti-bully bot will also create a safe space for people to communicate without fear of harassment or intimidation from other users.
+
 ## Tech Stack
 <img src="https://drive.google.com/uc?export=view&id=1jREu_hnGJ1gxv6hx2KMmM1zzHc8Yhvdh" alt="python" width="20" height="20"/> Python </br>
 <img src="https://drive.google.com/uc?export=view&id=1Jnn5fThJOy1WMnlQcDyOHMdt2dB8imws" alt="MySql" width="20" height="20"/> MySql </br>
