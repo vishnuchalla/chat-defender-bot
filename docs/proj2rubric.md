@@ -19,7 +19,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|||
 |Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|
 |Use of version control tools|3|Github|
-|Test cases exist|3|[tests](https://github.com/vamsitadikonda/chat-defender-bot/tree/main/tests)|
+|Test cases exist|3|[tests](https://github.com/vishnuchalla/chat-defender-bot/tree/main/tests)|
 |Test cases are routinely executed|3|[travis](https://github.com/vishnuchalla/chat-defender-bot/blob/main/.travis.yml)|
 |The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|3|[CONTRIBUTING.md](https://github.com/vamsitadikonda/chat-defender-bot/blob/main/CONTRIBUTING.md)|
 |Issues are discussed before they are closed|3|[Issues](https://github.com/vamsitadikonda/chat-defender-bot/issues)|
