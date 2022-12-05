@@ -63,7 +63,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|||
 |Does your documentation adhere to appropriate accessibility conventions or standards|3|Yes|
 |Is your source code stored in a repository under revision control|3|Github|
 |Is each source code release a snapshot of the repository|3|Yes|
-|Are releases tagged in the repository|3|[Releases](https://github.com/vamsitadikonda/chat-defender-bot/releases)|
+|Are releases tagged in the repository|3|[Releases](https://github.com/vishnuchalla/chat-defender-bot/releases)|
 |Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)|3|[main](https://github.com/vishnuchalla/chat-defender-bot/tree/main)|
 |Do you back-up your repository|3|[Zenodo](https://zenodo.org/record/7159312#.Y0OK6OzMK3I)|
 |Do you provide publicly-available instructions for building your software from the source code|3|[[](https://github.com/vishnuchalla/chat-defender-bot/blob/main/INSTALL.md).md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/INSTALL.md)|
