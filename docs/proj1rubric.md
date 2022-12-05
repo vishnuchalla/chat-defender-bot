@@ -1,7 +1,7 @@
 |Notes|Score|evidence|
 |-----|---|---------|
 |Bonus: Xfold improvement	| | | 
-|Docs: what: point descriptions of each class/function (in isolation)	|3|https://www.vamsitadikonda.com/chat-defender-bot/|
+|Docs: what: point descriptions of each class/function (in isolation)	|3|[Github](https://sumanthbsundar.github.io/discord_chat_bot_doc/)|
 |Use of style checkers |3|Code Linting Integrated [GitHub Action](https://github.com/vishnuchalla/chat-defender-bot/blob/main/.github/workflows/python-app.yml)|
 |Use of code formatters. |3|Code Linting Integrated [GitHub Action](https://github.com/vishnuchalla/chat-defender-bot/blob/main/.github/workflows/black.yml)|
 |Use of syntax checkers. |3|Code Linting Integrated [GitHub Action](https://github.com/vishnuchalla/chat-defender-bot/blob/main/.github/workflows/python-app.yml)|
