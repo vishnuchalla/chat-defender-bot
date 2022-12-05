@@ -4,7 +4,7 @@ import sys
 from pathlib import Path  # if you haven't already done so
 
 import discord
-import src.checkers.profanity
+from src.checkers.profanity import ProfanityChecker
 from dotenv import load_dotenv
 from src.checkers.apology import ApologyChecker
 from src.checkers.bully import BullyChecker
@@ -52,11 +52,7 @@ async def on_message(message):
         f"The message is: {message.content}, The channel is: {channel_name}, The Author Info: {author}-{author_id}"
     )
     msg_content = clean_message(str(message.content))
-    if (
-        msg_content.find("hello")
-        or msg_content.find("hi")
-        or msg_content.find("hey") != -1
-    ):
+    if ((msg_content.find("hello") != (-1)) or (msg_content.find("hi") != (-1)) or (msg_content.find("hey") != (-1))):
         await message.reply("Hey <@{0}> how's it going?".format(author_id))
     if msg_content.find("help") != -1:
         await message.reply(get_help_message())
@@ -104,6 +100,6 @@ if __name__ == "__main__":
     token = os.getenv("token")
     bully_checker = BullyChecker()
     apology_checker = ApologyChecker()
-    profanity_checker = src.checkers.profanity.ProfanityChecker()
+    profanity_checker = ProfanityChecker()
     report_checker = ReportChecker()
     client.run(token)
