@@ -15,7 +15,14 @@ To clone the project from the repository:
 ```
 git clone git@github.com:vishnuchalla007/chat-defender-bot.git
 ```
-
+Setup amazon EKS cluster by following the below steps
+```
+https://docs.aws.amazon.com/eks/latest/userguide/create-cluster.html
+```
+Once the setup is done, place the token in bot.env and place the toxic_model.sav from the below link in data folder
+```
+https://drive.google.com/file/d/1NY3mEogwXqsz2SaNz-hC2r5a5HYp6M66/view?usp=sharing
+```
 After cloning, go to the folder in the terminal and build a Docker Image using below command
 ```
 docker-compose build 
