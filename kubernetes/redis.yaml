@@ -26,7 +26,6 @@ kind: Service
 metadata:
   name: redis-svc
 spec:
-  type: LoadBalancer
   selector:
     app: redis
   ports:
