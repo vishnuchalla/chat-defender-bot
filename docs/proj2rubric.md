@@ -24,7 +24,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|||
 |The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up|3|[CONTRIBUTING.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/CONTRIBUTING.md)|
 |Issues are discussed before they are closed|3|[Issues](https://github.com/vishnuchalla/chat-defender-bot/search?l=python&type=issues)|
 |Chat channel: exists|3|[Issues](https://discord.gg/kaHFBzJz)|
-|Test cases: a large proportion of the issues related to handling failing cases.|3|In GH|
+|Test cases: a large proportion of the issues related to handling failing cases.|3|In [Github](https://github.com/vishnuchalla/chat-defender-bot/tree/main/tests)|
 |Evidence that the whole team is using the same tools: everyone can get to all tools and files|3|Github|
 |Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|3|Github|
 |Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|3|Github|
