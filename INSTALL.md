@@ -5,6 +5,7 @@ Prerequisites
 
 * [Python](https://www.python.org)
 * [Docker](https://www.docker.com/)
+* [Amazon EKS](https://aws.amazon.com/eks/)
 
 Upgrade pip:
 ```
@@ -12,7 +13,7 @@ python -m pip install --upgrade pip;
 ```
 To clone the project from the repository:
 ```
-git clone git@github.com:vamsitadikonda/chat-defender-bot.git
+git clone git@github.com:vishnuchalla007/chat-defender-bot.git
 ```
 
 After cloning, go to the folder in the terminal and build a Docker Image using below command
