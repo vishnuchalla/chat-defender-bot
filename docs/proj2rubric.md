@@ -52,8 +52,8 @@ but nevertheless, here is a track record that everyone is contributing a lot)|||
 |Does your website and documentation describe what support, if any, you provide to users and developers|3|[Contributing.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/CONTRIBUTING.md)|
 |Does your project have an e-mail address or forum that is solely for supporting users|3|[Contributing.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/CONTRIBUTING.md)|
 |Are e-mails to your support e-mail address received by more than one person|3|No|
-|Does your project have a ticketing system to manage bug reports and feature requests|3|[Issues](https://github.com/vamsitadikonda/chat-defender-bot/issues)|
-|Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests|3|yes[Issues](https://github.com/vamsitadikonda/chat-defender-bot/issues)|
+|Does your project have a ticketing system to manage bug reports and feature requests|3|[Issues](https://github.com/vishnuchalla/chat-defender-bot/pulls)|
+|Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests|3|yes[Issues](https://github.com/vishnuchalla/chat-defender-bot/pulls)|
 |Is your software’s architecture and design modular|0|NA|
 |Does your software use an accepted coding standard or convention|3|yes|
 |Does your software allow data to be imported and exported using open data formats. e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones|3|yes|
@@ -66,7 +66,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|||
 |Are releases tagged in the repository|3|[Releases](https://github.com/vishnuchalla/chat-defender-bot/releases)|
 |Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)|3|[main](https://github.com/vishnuchalla/chat-defender-bot/tree/main)|
 |Do you back-up your repository|3|[Zenodo](https://zenodo.org/record/7159312#.Y0OK6OzMK3I)|
-|Do you provide publicly-available instructions for building your software from the source code|3|[[](https://github.com/vishnuchalla/chat-defender-bot/blob/main/INSTALL.md).md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/INSTALL.md)|
+|Do you provide publicly-available instructions for building your software from the source code|3|[INSTALL.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/INSTALL.md)|
 |Can you build, or package, your software using an automated tool. e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)|3|Yes|
 |Do you provide publicly-available instructions for deploying your software|3|https://github.com/vishnuchalla/chat-defender-bot/blob/main/INSTALL.md|
 |Does your documentation list all third-party dependencies|3|Yes|
