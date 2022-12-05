@@ -26,6 +26,9 @@ The chat bot built in this project evaluates the text data whenever a message is
 ## High-Level Diagram
 ![HLD](https://user-images.githubusercontent.com/28471457/205743818-319caf10-8b05-4590-b0d7-4cb9ed37aa15.png)
 
+## Low-Level Diagram
+![LLD](https://user-images.githubusercontent.com/28471457/205755343-b3deec41-b423-42ba-83a3-33a0a00dd9fe.png)
+
 ## Implementation Steps
 Refer to INSTALL.md for detailed implementation steps
 ## Initial Video Link
