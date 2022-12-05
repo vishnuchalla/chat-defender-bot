@@ -47,7 +47,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|||
 |Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages|0|NA|
 |If your software can be used as a library, package or service by other software, do you provide comprehensive API documentation|0|NA|
 |Do you store your documentation under revision control with your source code|3|yes|
-|Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation|3|[Releases](https://github.com/vamsitadikonda/chat-defender-bot/releases)|
+|Do you publish your release history e.g. release data, version numbers, key features of each release etc. on your web site or in your documentation|3|[Releases](https://github.com/vishnuchalla/chat-defender-bot/releases)|
 |Does your software describe how a user can get help with using your software|3|[Contributing.md](https://github.com/vamsitadikonda/chat-defender-bot/blob/main/CONTRIBUTING.md)|
 |Does your website and documentation describe what support, if any, you provide to users and developers|3|[Contributing.md](https://github.com/vamsitadikonda/chat-defender-bot/blob/main/CONTRIBUTING.md)|
 |Does your project have an e-mail address or forum that is solely for supporting users|3|[Contributing.md](https://github.com/vamsitadikonda/chat-defender-bot/blob/main/CONTRIBUTING.md)|
