@@ -52,7 +52,11 @@ async def on_message(message):
         f"The message is: {message.content}, The channel is: {channel_name}, The Author Info: {author}-{author_id}"
     )
     msg_content = clean_message(str(message.content))
-    if ((msg_content.find("hello") != (-1)) or (msg_content.find("hi") != (-1)) or (msg_content.find("hey") != (-1))):
+    if (
+        (msg_content.find("hello") != (-1))
+        or (msg_content.find("hi") != (-1))
+        or (msg_content.find("hey") != (-1))
+    ):
         await message.reply("Hey <@{0}> how's it going?".format(author_id))
     if msg_content.find("help") != -1:
         await message.reply(get_help_message())
