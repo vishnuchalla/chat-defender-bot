@@ -1,7 +1,7 @@
 # Chat-Defender-bot
 [![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 [![Build](https://github.com/vishnuchalla/chat-defender-bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/vishnuchalla/chat-defender-bot/actions)
-[![DOI](https://zenodo.org/badge/543915548.svg)](https://zenodo.org/badge/latestdoi/543915548)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7397352.svg)](https://doi.org/10.5281/zenodo.7397352)
 [![GitHub Release](https://img.shields.io/github/release/vishnuchalla/chat-defender-bot)](https://github.com/vishnuchalla/chat-defender-bot/releases/)
 ![Python](https://img.shields.io/badge/python-v3.8+-yellow.svg)
 ![GitHub issues](https://img.shields.io/github/issues/vishnuchalla/chat-defender-bot)
