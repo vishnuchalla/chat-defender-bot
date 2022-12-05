@@ -26,7 +26,6 @@ kind: Service
 metadata:
   name: mysql-svc
 spec:
-  type: LoadBalancer
   selector:
     app: mysql
   ports:
