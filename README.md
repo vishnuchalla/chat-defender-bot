@@ -1,5 +1,5 @@
 # Chat-Defender-bot
-#### Defending The Offending
+#### Defending from the Offending
 
 [![License](https://img.shields.io/badge/License-BSD_2--Clause-orange.svg)](https://opensource.org/licenses/BSD-2-Clause)
 [![Build](https://github.com/vishnuchalla/chat-defender-bot/actions/workflows/python-app.yml/badge.svg)](https://github.com/vishnuchalla/chat-defender-bot/actions)
