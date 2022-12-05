@@ -23,6 +23,8 @@ Chat-Defender-bot : A Discord Bot to prevent cyberbullying and hate speech in ch
 
 The chat bot built in this project evaluates the text data whenever a message is sent onto the the discord group. If any offensive behaviour is observed, the user will be warned initially, before they are banned from the chat group. A user who receives a warning can apologize to the others in the group if they do not want to be further penalized later for the offense. Their behaviour data will be updated accordingly in the database. The database keeps updating based on the user inputs on which words should be considered as profanity. This bot can be highly customized according to the needs of the chat group, and has a huge scope of users.
 
+## High-Level Diagram
+![HLD](https://user-images.githubusercontent.com/28471457/205743818-319caf10-8b05-4590-b0d7-4cb9ed37aa15.png)
 
 ## Implementation Steps
 Refer to INSTALL.md for detailed implementation steps
