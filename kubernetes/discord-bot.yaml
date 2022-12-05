@@ -14,5 +14,5 @@ spec:
       containers:
       - name: discord-bot
         image: vishnuchalla007/docker-se
-        command: ["python", "-u"]
-        args: ["/app/src/run.py"]
+        command: ["python", "-m"]
+        args: ["src.run"]
