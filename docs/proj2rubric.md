@@ -30,7 +30,7 @@ but nevertheless, here is a track record that everyone is contributing a lot)|||
 |Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|3|Github|
 |Evidence that the members of the team are working across multiple places in the code base|3|[GitHub Insights](https://github.com/vishnuchalla/chat-defender-bot/graphs/contributors)|
 |Short release cycles || (hard to see in short projects) project members are committing often enough so that everyone can get your work|
-|Sustainability Evaluation|3|[GitHub Insights](https://github.com/vamsitadikonda/chat-defender-bot/contributors)|
+|Sustainability Evaluation|3|[GitHub Insights](https://github.com/vishnuchalla/chat-defender-bot/graphs/contributors)|
 |Does your website and documentation provide a clear, high-level overview of your software|3|[README.md](https://github.com/vamsitadikonda/chat-defender-bot/blob/main/README.md)|
 |Does your website and documentation clearly describe the type of user who should use your software|3|[README.md](https://github.com/vamsitadikonda/chat-defender-bot/blob/main/README.md)|
 |Do you publish case studies to show how your software has been used by yourself and others|3|Video|
