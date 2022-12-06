@@ -7,8 +7,7 @@
 |Use of syntax checkers. |3|Code Linting Integrated [GitHub Action](https://github.com/vishnuchalla/chat-defender-bot/blob/main/.github/workflows/python-app.yml)|
 |Use of code coverage |3|Badge in [README.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/README.md)|
 |Other automated analysis tools||config files in GH|
-|Workload is spread over the whole team (one team member is often Xtimes more productive than the others... 
-but nevertheless, here is a track record that everyone is contributing a lot)|||
+|Workload is spread over the whole team (one team member is often Xtimes more productive than the others but nevertheless, here is a track record that everyone is contributing a lot)|3|[GitHub Insights](https://github.com/vishnuchalla/chat-defender-bot/contributors)|
 |Number of commits|3|[GitHub Insights](https://github.com/vishnuchalla/chat-defender-bot/contributors)|
 |Number of commits: by different people|3|[GitHub Insights](https://github.com/vishnuchalla/chat-defender-bot/contributors)|
 |Issues reports: there are **many**|3|[Issues Tab](https://github.com/vishnuchalla/chat-defender-bot/issues?q=is%3Aopen+is%3Aissue)|
