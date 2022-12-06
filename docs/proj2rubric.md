@@ -64,7 +64,7 @@
 |Is each source code release a snapshot of the repository|3|Yes|
 |Are releases tagged in the repository|3|[Releases](https://github.com/vishnuchalla/chat-defender-bot/releases)|
 |Is there a branch of the repository that is always stable? (i.e. tests always pass, code always builds successfully)|3|[main](https://github.com/vishnuchalla/chat-defender-bot/tree/main)|
-|Do you back-up your repository|3|[Zenodo](https://zenodo.org/record/7159312#.Y0OK6OzMK3I)|
+|Do you back-up your repository|3|[Zenodo](https://zenodo.org/record/7397352)|
 |Do you provide publicly-available instructions for building your software from the source code|3|[INSTALL.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/INSTALL.md)|
 |Can you build, or package, your software using an automated tool. e.g. Make (https://www.gnu.org/software/make/), ANT (http://ant.apache.org/), Maven (https://maven.apache.org/), CMake (https://cmake.org/), Python setuptools (https://pypi.python.org/pypi/setuptools), or R package tools (https://cran.r-project.org/doc/manuals/r-devel/R-exts.html)|3|Yes|
 |Do you provide publicly-available instructions for deploying your software|3|https://github.com/vishnuchalla/chat-defender-bot/blob/main/INSTALL.md|
