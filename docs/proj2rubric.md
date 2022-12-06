@@ -3,7 +3,7 @@
 |Bonus: Xfold improvement	|3|https://drive.google.com/file/d/1gEPCoA0PzZkM3sttMBpUsSCnIc_Dd1HI/view?usp=share_link| 
 |Docs: what: point descriptions of each class/function (in isolation)	|3|[Github](https://sumanthbsundar.github.io/discord_chat_bot_doc/)|
 |Use of style checkers |3|Code Linting Integrated [GitHub Action](https://github.com/vishnuchalla/chat-defender-bot/blob/main/.github/workflows/python-app.yml)|
-|Use of code formatters. |3|Code Linting Integrated [GitHub Action](https://github.com/vishnuchalla/chat-defender-bot/blob/main/.github/workflows/black.yml)|
+|Use of code formatters. |3|Black Code Formatter [GitHub Action](https://github.com/vishnuchalla/chat-defender-bot/blob/main/.github/workflows/black.yml)|
 |Use of syntax checkers. |3|Code Linting Integrated [GitHub Action](https://github.com/vishnuchalla/chat-defender-bot/blob/main/.github/workflows/python-app.yml)|
 |Use of code coverage |3|Badge in [README.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/README.md)|
 |Other automated analysis tools|3|config files in GH|
@@ -12,11 +12,11 @@
 |Number of commits: by different people|3|[GitHub Insights](https://github.com/vishnuchalla/chat-defender-bot/contributors)|
 |Issues reports: there are **many**|3|[Issues Tab](https://github.com/vishnuchalla/chat-defender-bot/issues?q=is%3Aopen+is%3Aissue)|
 |Issues are being closed|3|[Issues Tab](https://github.com/vishnuchalla/chat-defender-bot/issues?q=is%3Aissue+is%3Aclosed)|
-|DOI badge: exists|3|In [README.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/README.md) [Zenodo](https://zenodo.org/record/7159312#.Y0OK6OzMK3I)|
+|DOI badge: exists|3|In [README.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/README.md) [Zenodo](https://zenodo.org/record/7397352#.Y46bYnbMK3A)|
 |Docs: doco generated, format not ugly |3|[PDocs](https://sumanthbsundar.github.io/discord_chat_bot_doc/)|
-|Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z||doc page entries|
-|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|
-|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|
+|Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|3|doc page entries|3|https://sumanthbsundar.github.io/discord_chat_bot_doc/|
+|Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|3|https://github.com/vishnuchalla/chat-defender-bot/blob/main/README.md|
+|Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|3|https://drive.google.com/file/d/1gEPCoA0PzZkM3sttMBpUsSCnIc_Dd1HI/view?usp=share_link|
 |Use of version control tools|3|Github|
 |Test cases exist|3|[tests](https://github.com/vishnuchalla/chat-defender-bot/tree/main/tests)|
 |Test cases are routinely executed|3|[travis](https://github.com/vishnuchalla/chat-defender-bot/blob/main/.travis.yml)|
@@ -28,7 +28,7 @@
 |Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)|3|Github|
 |Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)|3|Github|
 |Evidence that the members of the team are working across multiple places in the code base|3|[GitHub Insights](https://github.com/vishnuchalla/chat-defender-bot/graphs/contributors)|
-|Short release cycles || (hard to see in short projects) project members are committing often enough so that everyone can get your work|
+|Short release cycles |2| (hard to see in short projects) project members are committing often enough so that everyone can get your work|
 |Sustainability Evaluation|3|[GitHub Insights](https://github.com/vishnuchalla/chat-defender-bot/graphs/contributors)|
 |Does your website and documentation provide a clear, high-level overview of your software|3|[README.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/README.md)|
 |Does your website and documentation clearly describe the type of user who should use your software|3|[README.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/README.md)|
@@ -40,7 +40,7 @@
 |Is your source code publicly available to download, either as a downloadable bundle or via access to a source code repository|3|Yes|
 |Is your software hosted in an established, third-party repository likeGitHub (https://github.com), BitBucket (https://bitbucket.org),LaunchPad (https://launchpad.net) orSourceForge (https://sourceforge.net)|3|Github|
 |Is your documentation clearly available on your website or within your software|3|[PDocs](https://sumanthbsundar.github.io/discord_chat_bot_doc/)|
-|Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use|3|Video|
+|Does your documentation include a "quick start" guide, that provides a short overview of how to use your software with some basic examples of use|3||
 |If you provide more extensive documentation, does this provide clear, step-by-step instructions on how to deploy and use your software|3|[Install.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/INSTALL.md)|
 |Do you provide a comprehensive guide to all your software’s commands, functions and options|3|[Install.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/INSTALL.md)|
 |Do you provide troubleshooting information that describes the symptoms and step-by-step solutions for problems and error messages|0|NA|
@@ -50,7 +50,7 @@
 |Does your software describe how a user can get help with using your software|3|[Contributing.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/CONTRIBUTING.md)|
 |Does your website and documentation describe what support, if any, you provide to users and developers|3|[Contributing.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/CONTRIBUTING.md)|
 |Does your project have an e-mail address or forum that is solely for supporting users|3|[Contributing.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/CONTRIBUTING.md)|
-|Are e-mails to your support e-mail address received by more than one person|3|No|
+|Are e-mails to your support e-mail address received by more than one person|3|Yes|
 |Does your project have a ticketing system to manage bug reports and feature requests|3|[Issues](https://github.com/vishnuchalla/chat-defender-bot/pulls)|
 |Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests|3|yes[Issues](https://github.com/vishnuchalla/chat-defender-bot/pulls)|
 |Is your software’s architecture and design modular|0|NA|
