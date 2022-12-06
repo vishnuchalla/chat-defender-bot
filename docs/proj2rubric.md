@@ -51,8 +51,8 @@
 |Does your website and documentation describe what support, if any, you provide to users and developers|3|[Contributing.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/CONTRIBUTING.md)|
 |Does your project have an e-mail address or forum that is solely for supporting users|3|[Contributing.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/CONTRIBUTING.md)|
 |Are e-mails to your support e-mail address received by more than one person|3|Yes|
-|Does your project have a ticketing system to manage bug reports and feature requests|3|[Issues](https://github.com/vishnuchalla/chat-defender-bot/pulls)|
-|Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests|3|yes[Issues](https://github.com/vishnuchalla/chat-defender-bot/pulls)|
+|Does your project have a ticketing system to manage bug reports and feature requests|3|[Issues](https://github.com/users/vishnuchalla/projects/3/views/1)|
+|Is your project's ticketing system publicly visible to your users, so they can view bug reports and feature requests|3|yes[Issues](https://github.com/users/vishnuchalla/projects/3/views/1)|
 |Is your software’s architecture and design modular|0|NA|
 |Does your software use an accepted coding standard or convention|3|yes|
 |Does your software allow data to be imported and exported using open data formats. e.g. GIF, SVG, HTML, XML, tar, zip, CSV, JSON, NetCDF, or domain specific ones|3|yes|
