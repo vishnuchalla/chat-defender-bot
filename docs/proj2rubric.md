@@ -32,7 +32,7 @@
 |Sustainability Evaluation|3|[GitHub Insights](https://github.com/vishnuchalla/chat-defender-bot/graphs/contributors)|
 |Does your website and documentation provide a clear, high-level overview of your software|3|[README.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/README.md)|
 |Does your website and documentation clearly describe the type of user who should use your software|3|[README.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/README.md)|
-|Do you publish case studies to show how your software has been used by yourself and others|3|Video|
+|Do you publish case studies to show how your software has been used by yourself and others|3|[Video](https://drive.google.com/file/d/1gEPCoA0PzZkM3sttMBpUsSCnIc_Dd1HI/view?usp=share_link)|
 |Is the name of your project/software unique|3|[README.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/README.md)|
 |Is your project/software name free from trademark violations|0|NA|
 |Is your software available as a package that can be deployed without building it|0|No. Need to build|
