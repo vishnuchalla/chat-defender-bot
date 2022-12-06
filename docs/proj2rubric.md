@@ -13,7 +13,7 @@
 |Issues reports: there are **many**|3|[Issues Tab](https://github.com/vishnuchalla/chat-defender-bot/issues?q=is%3Aopen+is%3Aissue)|
 |Issues are being closed|3|[Issues Tab](https://github.com/vishnuchalla/chat-defender-bot/issues?q=is%3Aissue+is%3Aclosed)|
 |DOI badge: exists|3|In [README.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/README.md) [Zenodo](https://zenodo.org/record/7159312#.Y0OK6OzMK3I)|
-|Docs: doco generated, format not ugly ||[PDocs](https://sumanthbsundar.github.io/discord_chat_bot_doc/)|
+|Docs: doco generated, format not ugly |3|[PDocs](https://sumanthbsundar.github.io/discord_chat_bot_doc/)|
 |Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z||doc page entries|
 |Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing|
 |Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.|
