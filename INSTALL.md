@@ -19,6 +19,11 @@ Setup amazon EKS cluster by following the below steps
 ```
 https://docs.aws.amazon.com/eks/latest/userguide/create-cluster.html
 ```
+Our AWS Account login details to access cluster
+```
+username: sponnur@ncsu.edu
+password: segroup41@fall
+```
 Once the setup is done, place the token in bot.env and place the toxic_model.sav from the below link in data folder
 ```
 https://drive.google.com/file/d/1NY3mEogwXqsz2SaNz-hC2r5a5HYp6M66/view?usp=sharing
