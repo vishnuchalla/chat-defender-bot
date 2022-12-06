@@ -8,7 +8,6 @@
 ![Python](https://img.shields.io/badge/python-v3.8+-yellow.svg)
 ![GitHub issues](https://tinyurl.com/52bkfw3a)
 ![GitHub closed issues](https://tinyurl.com/3dzckf8p)
-![Lines of code](https://img.shields.io/tokei/lines/github/vishnuchalla/chat-defender-bot)
 [![codecov](https://codecov.io/gh/vishnuchalla/chat-defender-bot/branch/main/graph/badge.svg?token=h4F94IJMzj)](https://codecov.io/gh/vishnuchalla/chat-defender-bot)
 [![Repo Size](https://img.shields.io/github/repo-size/vishnuchalla/chat-defender-bot?color=brightgreen)](https://github.com/vishnuchalla/chat-defender-bot.git)
 [![contributors](https://img.shields.io/github/contributors/vishnuchalla/chat-defender-bot)](https://github.com/vishnuchalla/chat-defender-bot/graphs/contributors)
