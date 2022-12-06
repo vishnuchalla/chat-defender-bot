@@ -10,8 +10,8 @@
 |Workload is spread over the whole team (one team member is often Xtimes more productive than the others but nevertheless, here is a track record that everyone is contributing a lot)|3|[GitHub Insights](https://github.com/vishnuchalla/chat-defender-bot/contributors)|
 |Number of commits|3|[GitHub Insights](https://github.com/vishnuchalla/chat-defender-bot/contributors)|
 |Number of commits: by different people|3|[GitHub Insights](https://github.com/vishnuchalla/chat-defender-bot/contributors)|
-|Issues reports: there are **many**|3|[Issues Tab](https://github.com/vishnuchalla/chat-defender-bot/issues?q=is%3Aopen+is%3Aissue)|
-|Issues are being closed|3|[Issues Tab](https://github.com/vishnuchalla/chat-defender-bot/issues?q=is%3Aissue+is%3Aclosed)|
+|Issues reports: there are **many**|3|[Issues Tab](https://github.com/users/vishnuchalla/projects/3)|
+|Issues are being closed|3|[Issues Tab](https://github.com/users/vishnuchalla/projects/3)|
 |DOI badge: exists|3|In [README.md](https://github.com/vishnuchalla/chat-defender-bot/blob/main/README.md) [Zenodo](https://zenodo.org/record/7397352#.Y46bYnbMK3A)|
 |Docs: doco generated, format not ugly |3|[PDocs](https://sumanthbsundar.github.io/discord_chat_bot_doc/)|
 |Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z|3|doc page entries|3|https://sumanthbsundar.github.io/discord_chat_bot_doc/|
